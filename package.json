@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "socket.io-study",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Jihoon Kim",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
+}
